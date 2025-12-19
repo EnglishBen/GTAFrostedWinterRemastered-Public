@@ -103,6 +103,7 @@ WIP
 - firedihm (for [Combined Fixes](https://gtaforums.com/topic/978799-firedihms-workshop/))
 - erorcun (for [LCS Car Cam](https://gtaforums.com/topic/937737-sa-lcs-vehicle-camera-port-r6/) and [LCS Snow](https://gtaforums.com/topic/942893-lcs-psp-snowfall-port-r2/))
 - The Hero (for [PortableGTA and noreplay](https://gtaforums.com/topic/899040-the-heros-workshop/))
+- Sergi4UA (for [AudioLibrary](https://gtaforums.com/topic/811129-iiivccleo-audiolibrary/))
 - The LC01 Team
 - The CLEO Team
 
