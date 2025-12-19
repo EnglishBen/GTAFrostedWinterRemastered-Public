@@ -17,7 +17,7 @@ You'll need your own 1.0 copy of the game in order to play the mod, we cannot pr
 
 ## Found An Issue?
 
-Please [create an issue on Github](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/issues/new). Before doing so, please make sure you've read the FAQ section below and answer all the questions we ask on the issues page. Any issue created that doesn't follow these steps will be closed.
+Please [create an issue on Github](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/issues). Before doing so, please make sure you've read the FAQ section below and answer all the questions we ask on the issues page. Any issue created that doesn't follow these steps will be closed.
 
 ## Frequently Asked Questions
 
