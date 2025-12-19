@@ -79,7 +79,7 @@ Being fully transparent, this project uses AI twice. The first being the credits
 
 ## Mirrors
 
-WIP
+[Filen Mirror](https://app.filen.io/#/d/2f46e8c0-57c3-4fbf-948b-437e606a0c96%23466852465645434f785f6c476b53503849554d536538496779675278324e356f)
 
 ## Credits
 
