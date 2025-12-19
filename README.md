@@ -66,14 +66,14 @@ Being fully transparent, this project uses AI twice. The first being the credits
 ### To achieve 100% completion, you must do the following:
 
 - Complete all 69 story missions
-- [Complete all 17 side missions](https://ia902803.us.archive.org/11/items/GTA_FWR_MAPS/sidemissions.png)
-- [Collect all 100 hidden packages](https://ia902803.us.archive.org/11/items/GTA_FWR_MAPS/hiddenpackages.png)
-- [Collect all 50 bonuses](https://ia902803.us.archive.org/11/items/GTA_FWR_MAPS/bonuses.png)
+- [Complete all 17 side missions](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/sidemissions.png)
+- [Collect all 100 hidden packages](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/packages.png)
+- [Collect all 50 bonuses](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/bonuses.png)
 - Complete all 10 rampages
 - Complete all 30 unique stunts
-- [Collect all 12 bodycasts](https://ia902803.us.archive.org/11/items/GTA_FWR_MAPS/bodycasts.png)
-- [Collect all 10 mystery boxes](https://ia902803.us.archive.org/11/items/GTA_FWR_MAPS/mysteryboxes.png)
-- [Eliminate all 5 terrorists](https://ia902803.us.archive.org/11/items/GTA_FWR_MAPS/madmen.png)
+- [Collect all 12 bodycasts](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/bodycasts.png)
+- [Collect all 10 mystery boxes](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/mysteryboxes.png)
+- [Eliminate all 5 terrorists](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/madmen.png)
 
 **Maps WIP**
 
