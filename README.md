@@ -2,7 +2,7 @@
 
 [Installation](https://github.com/EnglishBen/GTAFrostedWinterRemastered#installation) • [Issues](https://github.com/EnglishBen/GTAFrostedWinterRemastered#found-an-issue) • [FAQ](https://github.com/EnglishBen/GTAFrostedWinterRemastered#frequently-asked-questions) • [100%](https://github.com/EnglishBen/GTAFrostedWinterRemastered#100-guide) • [Mirrors](https://github.com/EnglishBen/GTAFrostedWinterRemastered#mirrors) • [Credits](https://github.com/EnglishBen/GTAFrostedWinterRemastered#credits) • [Changelog](https://github.com/EnglishBen/GTAFrostedWinterRemastered#changelog)
 
-<img width="864" height="486" alt="image" src="https://github.com/user-attachments/assets/9f4ca39e-8fbb-47d7-8168-023d18744d9b" />
+<img width="864" height="486" alt="image" src="https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/gtafrostedwinterremastered.png" />
 
 ## What Is GTA: Frosted Winter: Remastered?
 
