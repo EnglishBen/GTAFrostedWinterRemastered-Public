@@ -21,9 +21,13 @@ Please [create an issue on Github](https://github.com/EnglishBen/GTAFrostedWinte
 
 ## Frequently Asked Questions
 
-- **I'm trying to run the game and it won't launch while using a resolution that isn't 16:9 and 1080p**
+- **I'm trying to run the game and it won't launch**
 
 If you're playing at a non-standard 1080p resolution, please make sure to update widescreenfix.ini as appropiate, It's inside the Scripts folder. Some people have reported that forcing the game to run in 1080p first will allow the game to launch, and then you can try to adjust the resolution in-game once you're in.
+
+Please also make sure you have the [redist x86 2010 package](https://www.microsoft.com/en-gb/download/details.aspx?id=26999) installed.
+
+You can also try heading to gta3.exe -> right click -> properties -> compatibility -> change DPI settings -> and tick "high DPI scaling override".
 
 - **I'm trying to stream/record the game but it's laggy**
 
@@ -48,10 +52,6 @@ Of course, simply press numpad plus/minus to change the voiceover volume. To mut
 - **When I load my save, a really annoying sound plays**
 
 This is a vanilla bug that seems to happen more frequently in Frosted Winter. Simply pausing and unpausing should fix it!
-
-- **When I try and boot the game, it just sits idle in task manager instead**
-
-This vanilla bug is solved by heading to gta3.exe -> right click -> properties -> compatibility -> change DPI settings -> tick "high DPI scaling override".
 
 - **The game boots, but I cannot move my mouse in-game**
 
