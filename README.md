@@ -57,6 +57,10 @@ This is a vanilla bug that seems to happen more frequently in Frosted Winter. Si
 
 The game might have set your in-game sensitivity to zero, just head to mouse settings in-game and change it.
 
+= **When I boot into the game, all the text is labelled as "missing"**
+
+Change your in-game language to English :)
+
 - **Does this project use AI?**
 
 Being fully transparent, this project uses AI twice. The first being the credits song (it's sadly not viable for us to pay someone to or create our own music from scratch), and the second being a very small part of the voiceover. Joey/Luigi/Toni/Mickey are AI generated, but everyone else (around 95% of the total cast) are all voiced by members of the community as you can see in the Credits section. We have made every effort to make the best mod we can with as much human involvement as possible.
