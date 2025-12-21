@@ -57,7 +57,7 @@ This is a vanilla bug that seems to happen more frequently in Frosted Winter. Si
 
 The game might have set your in-game sensitivity to zero, just head to mouse settings in-game and change it.
 
-= **When I boot into the game, all the text is labelled as "missing"**
+- **When I boot into the game, all the text is labelled as "missing"**
 
 Change your in-game language to English :)
 
