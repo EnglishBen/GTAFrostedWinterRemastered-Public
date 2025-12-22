@@ -61,9 +61,12 @@ The game might have set your in-game sensitivity to zero, just head to mouse set
 
 Change your in-game language to English :)
 
-- **I can't find the final hidden package**
+- **I can't find the final few collectibles**
 
-We fixed these late in development but sadly one slipped through the cracks before 1.0. There's a package out of bounds, if you use a teleporter to teleport to 1232.375 1229.625 33.5475 you'll be able to grab it.
+We fixed these late in development but sadly a few slipped through the cracks before 1.0. There's a package and some bonuses out of bounds, if you use a teleporter to teleport to the coords below you'll be able to finish hundo:
+
+Package - 1232.375 1229.625 33.5475
+Bonuses - 776.125 1073.188 139.0625 / -972.8125 1025.25 90.5625 / -907.875 781.0 8.3125
 
 - **Does this project use AI?**
 
