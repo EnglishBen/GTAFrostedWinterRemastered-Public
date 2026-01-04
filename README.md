@@ -69,6 +69,18 @@ Package - 1232.375 1229.625 33.5475
 
 Bonuses - 776.125 1073.188 139.0625 / -972.8125 1025.25 90.5625 / -907.875 781.0 8.3125
 
+- **I can't progress past A Little Surprise, help!**
+
+This is an annoying bug we've yet to fix as it's extremely rare and I cannot reproduce it on my end, but there is a workaround to fix it:
+
+A sort of workaround has been found which prevents the need to restart your playthrough:
+
+- Re-copy the main.scm into your data folder
+- Start a new game (if your save is an autosave, make sure you don't progress too far in the intro and overwrite it. Make a copy of your save if you want to be really safe)
+- Load your broken save
+
+You should be able to continue :)
+
 - **Does this project use AI?**
 
 Being fully transparent, this project uses AI twice. The first being the credits song (it's sadly not viable for us to pay someone to or create our own music from scratch), and the second being a very small part of the voiceover. Joey/Luigi/Toni/Mickey are AI generated, but everyone else (around 95% of the total cast) are all voiced by members of the community as you can see in the Credits section. We have made every effort to make the best mod we can with as much human involvement as possible.
