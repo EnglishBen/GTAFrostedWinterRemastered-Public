@@ -47,7 +47,7 @@ Yes! If you want the original snow physics back, simply take the [surface.dat fr
 
 - **Can I mute the voiceover?**
 
-Of course, simply press numpad plus/minus to change the voiceover volume. To mute, just set it to 0%.
+Of course, simply press numpad plus/minus to change the voiceover volume. To mute, just set it to 0%. From v1.1 onwards, you can customise the volume keys via fwr.ini inside the CLEO folder.
 
 - **When I load my save, a really annoying sound plays**
 
