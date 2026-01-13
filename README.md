@@ -43,7 +43,7 @@ Sadly not, the audio included will be the vanilla audio. We cannot distribute DM
 
 - **Can I change the snow physics?**
 
-Yes! If you want the original snow physics back, simply take the surface.dat we've included and copy it into your Data folder.
+Yes! If you want the original snow physics back, simply take the [surface.dat from here](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/Enable%20Snow%20Physics/surface.dat) and copy it into your Data folder. To download the file, just click the "download raw file" button.
 
 - **Can I mute the voiceover?**
 
@@ -61,14 +61,6 @@ The game might have set your in-game sensitivity to zero, just head to mouse set
 
 Change your in-game language to English :)
 
-- **I can't find the final few collectibles**
-
-We fixed these late in development but sadly a few slipped through the cracks before 1.0. There's a package and some bonuses out of bounds, if you use a teleporter to teleport to the coords below you'll be able to finish hundo:
-
-Package - 1232.375 1229.625 33.5475
-
-Bonuses - 776.125 1073.188 139.0625 / -972.8125 1025.25 90.5625 / -907.875 781.0 8.3125
-
 - **I can't progress past A Little Surprise, help!**
 
 This is an annoying bug we've yet to fix as it's extremely rare and I cannot reproduce it on my end, but there is a workaround to fix it:
@@ -78,6 +70,10 @@ This is an annoying bug we've yet to fix as it's extremely rare and I cannot rep
 - Load your broken save
 
 You should be able to continue :)
+
+- **I updated the game and my save isn't working!**
+
+Saves are sadly not compatible between game versions, only update if you're willing to start from scratch!
 
 - **Does this project use AI?**
 
@@ -99,9 +95,9 @@ Being fully transparent, this project uses AI twice. The first being the credits
 
 ## Mirrors
 
-[Filen Mirror](https://app.filen.io/#/d/2f46e8c0-57c3-4fbf-948b-437e606a0c96%23466852465645434f785f6c476b53503849554d536538496779675278324e356f)
+[Filen Mirror](https://app.filen.io/#/d/81ce370e-7239-4869-bee0-a4ff655c9cd7%23676c5079633552665734393541364a6635366632456a6e30497875786861472d)
 
-[Archive.org Mirror](https://archive.org/details/gta-frosted-winter-remastered-1-0)
+[Archive.org Mirror](https://archive.org/details/gta-frosted-winter-remastered-1-0) (v1.1 mirror coming soon)
 
 ## Credits
 
@@ -116,6 +112,7 @@ Being fully transparent, this project uses AI twice. The first being the credits
 - Style4007 (for helping write the code, creating tools to automate processes, and teaching me a tonne about GTA scripting)
 - myamai (for creating the awesome art you see throughout the project)
 - Mafia Game Videos (for helping us with the voiceover)
+- 1826 (for giving useful code feedback/fixes for v1.1)
 - davi (for their contributions via eASIer)
 - HackMan128 (for making [eASIer](https://www.gtagarage.com/mods/show.php?id=26424))
 - AG (for making [Classic Axis](https://gtaforums.com/topic/896122-classic-axis-for-gta-iii-and-gta-vc/))
@@ -184,6 +181,8 @@ Being fully transparent, this project uses AI twice. The first being the credits
 <details>
 
 <summary>Changelog</summary>
+
+# GTA Frosted Winter: Remastered v1.0 Changelog
 
 ## General Improvements
 
@@ -761,5 +760,57 @@ Being fully transparent, this project uses AI twice. The first being the credits
 - Removed time of day requirement to start mission
 - Starting the mission now sets the weather to clear
 - Player no longer fails if they exit their vehicle
+
+# GTA Frosted Winter v1.1 Changelog
+
+## General Fixes
+
+- Further code cleanup & removal of unused OG code (thanks to 1826)
+- Minor GXT fixes (double spaces etc)
+- Fixed unobtainable collectibles
+- Rampages no longer give you incorrect instructions
+- Weapon Buyback no longer times out unless you leave the area
+- Fixed a bug that required $101 to purchase clothes for $100 in the Newport Clothing Store
+- Fixed missing stats
+- Removed vanilla USJs
+- Reworked remaining USJ's landing zones to make them more lenient
+- Removed a fence in Southeast Portland to make accessing a USJ easier
+- Fixed an OG bug that was causing garage vehicles to be deleted
+- Added 64 channel audio support
+- All phone call audio is now "phone-ified"
+- Smashed windscreens no longer have the wrong texture
+- Updated launch movies
+- Players can no longer access the Colombian Compound with the incorrect vehicle
+- Players can no longer access the Triad Fish Factory with the incorrect vehicle
+- Players can now use an FBI Car or Enforcer to access the Police Compound
+- Players can now properly access Phil's Compound at any time
+- Players can now rebind their CLEO audio keys via "fwr.ini" inside the CLEO folder. This must be done before starting a new game!
+
+## Mission Fixes
+
+- Fixed text showing the old player instructions during The Deminer
+- The Deminer now has 3D checks for each bomb (so you can't pick them up through the floor/ceiling)
+- Players can now accept the intro disclaimer regardless of their keybinds
+- Players can no longer accidentally skip the Toni cutscene during Booby Trap
+- Players can now leave the limo during Limo Driver
+- Players now properly receive their tips during Limo Driver
+- The bus no longer has an alarm during Bus Driver
+- The intro text during Water Run is now fully accurate
+- Ghost Hide now plays out the same regardless of whether you use a checkpoint or not
+- The final bombs now properly get cleaned up at the end of No Dry Run
+- The game will no longer point you to the Fish Van if you bring your own during History Tends To Repeat
+- Kidnapped now has more specific instructions on where Daigo's girlfriend is located
+- Removed clanker VA in Plan 1
+- The camera no longer forcefully spins the player around constantly during Sniper On The Roof
+- Trash Collector has been slightly reworked to fix various issues (your Trashmaster should no longer despawn)
+- Fixed a bug that caused a blip to be the wrong colour during No Friends
+- Fixed a bug that would cause your save to brick if you blew up the cars in a certain order during Junk Riddance
+- Fixed a bug that would cause the game to crash when destroying candles during the Ghost Easter Egg
+- Fixed a bug that would cause the game to spam text boxes & sounds when approaching candles during the Ghost Easter Egg
+- Fixed a bug where players could softlock if they blocked the warehouse door during Two Kings In Little Italy
+- Fixed a bug where players could softlock if they ran over a customer during Taxi Driver
+- Fixed a bug where players could softlock if they buffered an input during the garage cutscene in Hot Situation
+- Fixed a bug where players could softlock during several cutscenes in Yakuza From The USA
+- Fixed a bug where players could softlock if they buffered an input during the final cutscene in Impound Money
 
 </details>
