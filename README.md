@@ -97,7 +97,7 @@ Being fully transparent, this project uses AI twice. The first being the credits
 
 [Filen Mirror](https://app.filen.io/#/d/81ce370e-7239-4869-bee0-a4ff655c9cd7%23676c5079633552665734393541364a6635366632456a6e30497875786861472d)
 
-[Archive.org Mirror](https://archive.org/details/gta-frosted-winter-remastered-1-0) (v1.1 mirror coming soon)
+[Archive.org Mirror](https://archive.org/details/gta-frosted-winter-remastered-1-1)
 
 ## Credits
 
