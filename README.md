@@ -92,7 +92,7 @@ Being fully transparent, this project uses AI twice. The first being the credits
 - [Collect all 100 hidden packages](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/packages.png)
 - [Collect all 50 bonuses](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/bonuses.png)
 - [Complete all 10 rampages](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/rampages.png)
-- [Complete all 30 unique stunts](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/stuntjumps.png)
+- [Complete all 10 unique stunts](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/stuntjumps.png)
 - [Collect all 12 bodycasts](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/bodycasts.png)
 - [Collect all 10 mystery boxes](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/mysteryboxes.png)
 - [Eliminate all 5 terrorists](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/madmen.png)
