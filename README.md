@@ -77,7 +77,7 @@ Saves are sadly not compatible between game versions, only update if you're will
 
 - **Does this project use AI?**
 
-Being fully transparent, this project uses AI twice. The first being the credits song (it's sadly not viable for us to pay someone to or create our own music from scratch), and the second being a very small part of the voiceover. Joey/Luigi/Toni/Mickey are AI generated, but everyone else (around 95% of the total cast) are all voiced by members of the community as you can see in the Credits section. We have made every effort to make the best mod we can with as much human involvement as possible.
+Being fully transparent, this project uses AI once for a very small part of the voiceover. Joey/Luigi/Toni/Mickey are AI generated, but everyone else (around 95% of the total cast) are all voiced by members of the community as you can see in the Credits section. We have made every effort to make the best mod we can with as much human involvement as possible.
 
 ## 100% Guide
 
