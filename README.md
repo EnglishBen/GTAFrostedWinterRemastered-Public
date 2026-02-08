@@ -15,6 +15,8 @@ We have aimed to not only preserve the original project, but also give players t
 
 You'll need your own 1.0 copy of the game in order to play the mod, we cannot provide this for you. Fortunately downgrading to 1.0 is as easy as [downloading a 1.0 exe](https://www.google.com/) and placing it inside your game Steam/RGL folder. Once you've done that or you already have a 1.0 copy, copy our files on top from the [releases](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/releases) section and you're good to go!
 
+You can play this mod in several languages, check out the [translations release page](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/releases/tag/translations) to see if your language is supported!
+
 ## Found An Issue?
 
 Please [create an issue on Github](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/issues). Before doing so, please make sure you've read the FAQ section below and answer all the questions we ask on the issues page. Any issue created that doesn't follow these steps will be closed.
