@@ -87,7 +87,7 @@ Being fully transparent, this project uses AI once for a very small part of the 
 
 - Complete all 69 story missions
 - [Complete all 17 side missions](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/sidemissions.png)
-- [Collect all 100 hidden packages](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/packages.png)
+- [Collect all 50 hidden packages](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/packages.png)
 - [Collect all 50 bonuses](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/bonuses.png)
 - [Complete all 10 rampages](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/rampages.png)
 - [Complete all 10 unique stunts](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/blob/main/100%25%20Maps/stuntjumps.png)
