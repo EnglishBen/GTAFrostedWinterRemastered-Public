@@ -815,4 +815,49 @@ Being fully transparent, this project uses AI once for a very small part of the 
 - Fixed a bug where players could softlock during several cutscenes in Yakuza From The USA
 - Fixed a bug where players could softlock if they buffered an input during the final cutscene in Impound Money
 
+# GTA Frosted Winter: Remastered v1.2 Changelog
+
+## General Fixes
+
+- Fixed a million map issues (see [this issue](https://github.com/EnglishBen/GTAFrostedWinterRemastered-Public/issues/16) for a list)
+- Properly fixed issues from v1.1 (I forgot to include some files, sorry!)
+- Major cleanup of gta3.img, to try and prevent constant issues with the archive
+- The map now properly shows the new areas/roads
+- Fixed 100% completion rewards becoming unavailable in v1.1
+- Collectible rework (removed vanilla/BS/duplicate locations and streamlined hidden packages to 50 from 100)
+- Bonuses collected stat now displays correctly
+- The outfit for collecting all bonuses is now fixed
+- Max Payne easter egg rework (players can now exit the maze via the entrance and if they fall inside the void they'll be teleported back to the maze instead of the motel)
+- RPG Rampage now requires 10 vehicles to be destroyed (down from 15)
+- Fixed a bug that caused terrorists to have higher hp than usual
+- Replaced credits theme with non-AI version
+- Minor GXT fixes
+- Added French/Turkish/Slovak translations
+
+## Mission Fixes
+
+- Street race dialogue is now phoneified
+- Removed an instakill trap during Limo Driver that the OG project had included
+- Fixed a bug that could cause Bus Driver to softlock if players drove over a passenger
+- Bus Driver now correctly fails if the bus is destroyed
+- Limo Drive can no longer crash if the limo is destroyed
+- Fixed a bug that could cause players to receive five stars for seemingly no reason during One Bullet
+- Fixed a bug that would cause some guards to ignore the player in the mines during Ghost Hide
+
+# GTA Frosted Winter: Remastered v1.3 Changelog
+
+## General Fixes
+
+- Updated SilentPatch to Build 10 - [See here for more info](https://silentsblog.com/2026/07/31/silentpatch-2026-update)
+- The Hidden Packages stat now shows the proper number of packages (50 instead of 100)
+- Updated SideMissions map to include Cinemassacre
+- Fixed a bug that allowed players to trigger certain Terrorists from high in the sky
+- Fixed a bug that would cause transitions/fades to be the wrong colour
+
+## Mission Fixes
+
+- Fixed a bug that would cause a pager to play even though the mission had failed during Kamikazi
+- Fixed a bug that would cause LODs to break after loading the autosave received from completing Steam Blow
+- Fixed a bug that caused Triads to randomly spawn inside the compound during History Tends To Repeat
+
 </details>
