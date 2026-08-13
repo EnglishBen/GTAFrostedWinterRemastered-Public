@@ -849,6 +849,7 @@ Being fully transparent, this project uses AI once for a very small part of the 
 ## General Fixes
 
 - Updated SilentPatch to Build 10 - [See here for more info](https://silentsblog.com/2026/07/31/silentpatch-2026-update)
+- Updated WidescreenFix to now automatically detect resolution/aspect ratio (for non 16:9 displays)
 - The Hidden Packages stat now shows the proper number of packages (50 instead of 100)
 - Updated SideMissions map to include Cinemassacre
 - Fixed a bug that allowed players to trigger certain Terrorists from high in the sky
